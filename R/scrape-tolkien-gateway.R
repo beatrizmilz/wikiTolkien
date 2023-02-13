@@ -1,4 +1,4 @@
-tolkien_gateway_infobox <- function(url_page = "https://tolkiengateway.net/wiki/Tar-Ciryatan"){
+scrape_tolkien_gateway_infobox <- function(url_page = "https://tolkiengateway.net/wiki/Tar-Ciryatan"){
 
   # URL of the webpage we want to scrape
   url_page
